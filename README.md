@@ -6,9 +6,9 @@
 </a>
 
 <div align="center">
-    <a href"https://github.com/OkamiMks?tab=followers">
+    <a href"https://github.com/HOPE-NEXUS?tab=followers">
         <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/OkamiMks?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+             src="https://img.shields.io/github/followers/HOPE-NEXUS?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
 </div><br>
 
