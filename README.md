@@ -1,6 +1,6 @@
 <a href="link">
     <h3 align="center">
-        <img src="TODO" width="280"><br>
+        <img src="https://github.com/Team-BANERUS/poketwo-Autocatcher/blob/main/s-mds/banerus.png?raw=true" length="100" width="100"><br>
         Hope Nexus
     </h3>
 </a>
@@ -12,7 +12,7 @@
     </a>
 </div><br>
 
-<div style="length: 20px;width: 10px;"></div>
+<div style="width: 10px;"></div>
 <a  href="link">
 <img align="right" src="https://github.com/Team-BANERUS/poketwo-Autocatcher/blob/main/s-mds/banerus.png?raw=true"/>
 </a>
