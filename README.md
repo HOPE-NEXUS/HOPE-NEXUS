@@ -17,7 +17,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=red&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&animation=spin&fill=black&textfill=red&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=firefox&text=false&animation=spin&fill=black&textfill=deaded&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=firefox&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=deaded&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=tensorflow&text=false&animation=spin&fill=black&textfill=deaded&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=black&textfill=bface6&">
