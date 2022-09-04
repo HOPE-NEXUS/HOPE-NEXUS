@@ -22,8 +22,6 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src='https://skillicons.dev/icons?i=kotlin,go,react,ts,nodejs,java,js,linux' />
-
 </a>
 
 ```C++
