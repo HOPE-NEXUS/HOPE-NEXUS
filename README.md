@@ -47,4 +47,4 @@ I'm known as Hope. <br>
 
 My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose. <br>
 
-Over the last few years, my knowledge and experience have expanded, as i keep my main project either private or for sale.
+Over the last few years, my knowledge and experience have expanded, due to my main projects which are either private or sold.
