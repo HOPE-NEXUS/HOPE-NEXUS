@@ -1,6 +1,6 @@
 <a href="link">
     <h3 align="center">
-        <img src="https://github.com/Team-BANERUS/poketwo-Autocatcher/blob/main/s-mds/banerus.png?raw=true" length="100" width="100"><br>
+        <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif" length="100" width="100"><br>
         Hope Nexus
     </h3>
 </a>
