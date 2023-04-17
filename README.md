@@ -33,8 +33,8 @@
 using namespace std::hope;
 int main() {
     char info[128] = "Mathematics and Computer science λ";
-    char *langs[5] = { "C", "C++", "C#", "R", "Golang" };
-    char tech[4] = { "AI", "ML", "Backend", "Frontend" };
+    char *langs[7] = { "C", "C++", "C#", "R", "Golang", "Rust", "Java" };
+    char tech[4] = { "AI", "ML", "Backend", "Frontend", "Hardware (circuits)" };
     
     // Server:   none
     // Telegram: hope
