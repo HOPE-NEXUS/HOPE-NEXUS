@@ -34,7 +34,7 @@ using namespace std::hope;
 int main() {
     char info[128] = "Mathematics and Computer science λ";
     char *langs[7] = { "C", "C++", "C#", "R", "Golang", "Rust", "Java" };
-    char tech[4] = { "AI", "ML", "Software Dev", "Security Engineer", "Hardware (circuits)" };
+    char tech[5] = { "AI/ML", "Cloud Architect", "Hardware (circuits)", "Security Engineer", "Software Dev" };
     
     // Server:   none
     // Telegram: hope
